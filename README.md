@@ -4,7 +4,7 @@ My JS(DOM) practice project
 
 
 ## Core Features
-JS(DOM)
-EventListener
+**JS(DOM)
+**EventListener
 
 ## visite site:  https://jannathsyeda.github.io/JS_BankingProject/
